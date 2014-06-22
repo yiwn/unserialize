@@ -1,0 +1,26 @@
+{
+  "name": "yiwn-unserialize",
+  "version": "0.0.1",
+  "description": "Unserialize a serialized JS value.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yiwn/unserialize.git"
+  },
+  "keywords": [
+    "unserialize",
+    "yiwn"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yiwn/unserialize/issues"
+  },
+  "homepage": "https://github.com/yiwn/unserialize"
+}

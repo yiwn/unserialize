@@ -1,6 +1,6 @@
 {
   "name": "unserialize",
-  "repo": "yields/unserialize",
+  "repo": "yiwn/unserialize",
   "description": "Unserialize a serialized javascript value.",
   "version": "0.0.1",
   "keywords": [],
